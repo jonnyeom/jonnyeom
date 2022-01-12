@@ -1,4 +1,9 @@
-### Hi there 👋
+#### Hi— Im Jonny Eom 👋
+
+Im a professional developer, experienced in developing enterprise level websites and applications.  
+Im good at PHP and JavaScript, specializing in Symfony and Drupal. Yes, I can do React too.
+
+[jonnyeom.com](https://www.jonnyeom.com/)
 
 <!--
 **jonnyeom/jonnyeom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
