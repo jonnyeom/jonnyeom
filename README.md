@@ -19,8 +19,10 @@ Im good at PHP and JavaScript, specializing in Symfony and Drupal. Yes, I can do
 
 
 
-<!--
-**jonnyeom/jonnyeom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<!-- 
+I like whitespace
+
 
 Here are some ideas to get you started:
 
