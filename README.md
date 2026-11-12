@@ -1,7 +1,7 @@
 ### Hi— Im Jonny Eom 👋
 
-Im a professional developer, experienced in developing enterprise level websites and applications.  
-Im good at PHP and JavaScript, specializing in Symfony and Drupal. Yes, I can do React too.
+Im a professional developer, experienced in building and maintaining enterprise applications.  
+Im good at PHP and JavaScript, specializing in Symfony and React.
 
 [jonnyeom.com](https://www.jonnyeom.com/)
 
