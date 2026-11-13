@@ -3,6 +3,8 @@
 Im a professional developer, experienced in building and maintaining enterprise applications.  
 Im good at PHP and JavaScript, specializing in Symfony and React.
 
+Currently leading and SE efforts @ [BSN Sports](https://www.bsnsports.com/), specializing in enterprise symfony!
+
 [jonnyeom.com](https://www.jonnyeom.com/)
 
 
